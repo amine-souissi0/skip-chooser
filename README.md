@@ -66,9 +66,7 @@ npm run dev
 - [x] No console errors or warnings in the browser
 - [x] The repository is public and pushed to GitHub
 
-**Optional (for extra points):**
-- [ ] A deployed live demo (Vercel, Netlify, etc.) is provided
-- [ ] A screenshot or GIF is in the README
+
 
 ---
 
