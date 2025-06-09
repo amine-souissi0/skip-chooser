@@ -19,15 +19,11 @@ It was built for a front-end technical challenge for WeWantWaste.
 git clone https://github.com/amine-souissi0/skip-chooser.git
 cd skip-chooser
 
-markdown
-Copier
-Modifier
+
 2. **Install dependencies**  
 npm install
 
-markdown
-Copier
-Modifier
+
 3. **Add the required images to `src/assets/`:**
 - `skip.png` – the skip bin image
 - `logo_icon.png` – the company logo for the progress bar
